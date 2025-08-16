@@ -8,7 +8,7 @@ The Twemoji library offers support for all Unicode-defined emoji which are recom
 
 ## Usage
 
-### CDN Support
+### CDN Suppor
 
 <del>The folks over at [MaxCDN](https://www.maxcdn.com) have graciously provided CDN support.</del>
 
