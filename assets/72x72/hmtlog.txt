@@ -1,0 +1,108 @@
+05-04 11:03:47:766 HMT : onCreate HwModuleTest, isRunningFactoryApp = false
+05-04 11:03:47:804 HMT : onStart HwModuleTest
+05-04 11:03:47:806 HMT : onStart setRunningFactoryApp true
+05-04 11:03:47:808 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:03:58:664 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:03:58:683 HMT : onCreate TspPatternStyleX, isRunningFactoryApp = true
+05-04 11:03:58:742 HMT : onStart TspPatternStyleX
+05-04 11:03:58:802 HMT : onResume TspPatternStyleX, isRunningFactoryApp = true
+05-04 11:03:58:898 HMT : onStop HwModuleTest
+05-04 11:04:21:456 HMT : onPause TspPatternStyleX, isRunningFactoryApp = true
+05-04 11:04:21:473 HMT : onStart HwModuleTest
+05-04 11:04:21:474 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:21:552 HMT : onStop TspPatternStyleX
+05-04 11:04:21:616 HMT : onDestroy TspPatternStyleX, isRunningFactoryApp = true
+05-04 11:04:27:233 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:27:653 HMT : onStop HwModuleTest
+05-04 11:04:27:656 HMT : onStop setRunningFactoryApp false
+05-04 11:04:34:757 HMT : onStart HwModuleTest
+05-04 11:04:34:759 HMT : onStart setRunningFactoryApp true
+05-04 11:04:34:760 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:36:480 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:36:506 HMT : onCreate ColorTest, isRunningFactoryApp = true
+05-04 11:04:36:511 HMT : onStart ColorTest
+05-04 11:04:36:512 HMT : onResume ColorTest, isRunningFactoryApp = true
+05-04 11:04:36:589 HMT : onStop HwModuleTest
+05-04 11:04:38:274 HMT : onPause ColorTest, isRunningFactoryApp = true
+05-04 11:04:38:306 HMT : onStart HwModuleTest
+05-04 11:04:38:307 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:38:398 HMT : onStop ColorTest
+05-04 11:04:38:399 HMT : onDestroy ColorTest, isRunningFactoryApp = true
+05-04 11:04:39:732 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:39:748 HMT : onCreate ColorTest, isRunningFactoryApp = true
+05-04 11:04:39:753 HMT : onStart ColorTest
+05-04 11:04:39:754 HMT : onResume ColorTest, isRunningFactoryApp = true
+05-04 11:04:39:824 HMT : onStop HwModuleTest
+05-04 11:04:40:794 HMT : onPause ColorTest, isRunningFactoryApp = true
+05-04 11:04:40:815 HMT : onStart HwModuleTest
+05-04 11:04:40:816 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:40:904 HMT : onStop ColorTest
+05-04 11:04:40:907 HMT : onDestroy ColorTest, isRunningFactoryApp = true
+05-04 11:04:43:474 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:43:490 HMT : onCreate ReceiverTest, isRunningFactoryApp = true
+05-04 11:04:43:496 HMT : onStart ReceiverTest
+05-04 11:04:43:497 HMT : onResume ReceiverTest, isRunningFactoryApp = true
+05-04 11:04:43:657 HMT : onStop HwModuleTest
+05-04 11:04:47:549 HMT : onPause ReceiverTest, isRunningFactoryApp = true
+05-04 11:04:48:130 HMT : onStart HwModuleTest
+05-04 11:04:48:131 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:48:210 HMT : onStop ReceiverTest
+05-04 11:04:48:212 HMT : onDestroy ReceiverTest, isRunningFactoryApp = true
+05-04 11:04:49:986 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:50:002 HMT : onCreate VibrationTest, isRunningFactoryApp = true
+05-04 11:04:50:008 HMT : onStart VibrationTest
+05-04 11:04:50:009 HMT : onResume VibrationTest, isRunningFactoryApp = true
+05-04 11:04:50:099 HMT : onStop HwModuleTest
+05-04 11:04:51:454 HMT : onPause VibrationTest, isRunningFactoryApp = true
+05-04 11:04:51:487 HMT : onStart HwModuleTest
+05-04 11:04:51:488 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:51:569 HMT : onStop VibrationTest
+05-04 11:04:51:570 HMT : onDestroy VibrationTest, isRunningFactoryApp = true
+05-04 11:04:53:698 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:04:54:045 HMT : onStop HwModuleTest
+05-04 11:04:54:051 HMT : onStop setRunningFactoryApp false
+05-04 11:04:59:850 HMT : onStart HwModuleTest
+05-04 11:04:59:852 HMT : onStart setRunningFactoryApp true
+05-04 11:04:59:852 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:05:02:040 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:05:02:064 HMT : onCreate SensorTest, isRunningFactoryApp = true
+05-04 11:05:02:142 HMT : onStart SensorTest
+05-04 11:05:02:144 HMT : onResume SensorTest, isRunningFactoryApp = true
+05-04 11:05:02:290 HMT : onStop HwModuleTest
+05-04 11:05:10:941 HMT : onPause SensorTest, isRunningFactoryApp = true
+05-04 11:05:10:987 HMT : onStart HwModuleTest
+05-04 11:05:10:988 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:05:11:095 HMT : onStop SensorTest
+05-04 11:05:11:097 HMT : onDestroy SensorTest, isRunningFactoryApp = true
+05-04 11:05:18:943 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:05:18:959 HMT : onCreate SubKeyTest, isRunningFactoryApp = true
+05-04 11:05:18:975 HMT : onStart SubKeyTest
+05-04 11:05:18:977 HMT : onResume SubKeyTest, isRunningFactoryApp = true
+05-04 11:05:19:067 HMT : onStop HwModuleTest
+05-04 11:05:24:046 HMT : onPause SubKeyTest, isRunningFactoryApp = true
+05-04 11:05:24:073 HMT : onStart HwModuleTest
+05-04 11:05:24:075 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:05:24:164 HMT : onStop SubKeyTest
+05-04 11:05:24:172 HMT : onDestroy SubKeyTest, isRunningFactoryApp = true
+05-04 11:05:27:328 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:05:27:494 HMT : onStop HwModuleTest
+05-04 11:05:27:498 HMT : onStop setRunningFactoryApp false
+05-04 11:05:52:227 HMT : onStart HwModuleTest
+05-04 11:05:52:232 HMT : onStart setRunningFactoryApp true
+05-04 11:05:52:234 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:06:10:186 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:06:10:352 HMT : onStop HwModuleTest
+05-04 11:06:10:355 HMT : onStop setRunningFactoryApp false
+05-04 11:06:18:499 HMT : onStart HwModuleTest
+05-04 11:06:18:503 HMT : onStart setRunningFactoryApp true
+05-04 11:06:18:504 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:06:26:703 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:06:27:558 HMT : onStop HwModuleTest
+05-04 11:06:27:564 HMT : onStop setRunningFactoryApp false
+05-04 11:06:35:987 HMT : onStart HwModuleTest
+05-04 11:06:35:990 HMT : onStart setRunningFactoryApp true
+05-04 11:06:35:993 HMT : onResume HwModuleTest, isRunningFactoryApp = true
+05-04 11:06:49:616 HMT : onPause HwModuleTest, isRunningFactoryApp = true
+05-04 11:06:49:893 HMT : onStop HwModuleTest
+05-04 11:06:49:896 HMT : onStop setRunningFactoryApp false
+05-04 11:06:49:945 HMT : onDestroy HwModuleTest, isRunningFactoryApp = false
